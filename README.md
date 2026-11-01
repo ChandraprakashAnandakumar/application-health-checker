@@ -12,7 +12,8 @@ An automated, lightweight Application Health Checker written in POSIX Shell and 
 ## Dashboard Preview
 
 <!-- Upload your screenshot to docs/dashboard.png to display it here -->
-![Application Health Checker Preview](docs/dashboard.png)
+<img width="873" height="291" alt="image" src="https://github.com/user-attachments/assets/8adbc3c3-92bd-4acf-95b9-4eae3ee34606" />
+
 
 ---
 
@@ -115,12 +116,3 @@ application-health-checker/
 ├── app_checker.sh       # Main POSIX Shell health monitor script
 ├── .gitignore           # Ignored system files and logs
 └── README.md            # Project documentation
-
-
-
-### How to update it directly on GitHub:
-1. Go to your repository: `https://github.com/ChandraprakashAnandakumar/application-health-checker`
-2. Click on the **`README.md`** file.
-3. Click the ✏️ **Edit this file** (pencil icon) on the top right.
-4. Select all (`Ctrl + A`), delete, and paste the code above.
-5. Click the green **Commit changes...** button at the top right.
